@@ -42,3 +42,5 @@ A team where:
 ✅ quality is built-in, not bolted-on  
 ✅ automation is a priority, not a “someday”  
 ✅ engineering mindset is valued as much as speed
+
+![Evgeniy's GitHub stats](https://github-readme-stats.vercel.app/api?username=echechelev&show_icons=true&theme=radical)
