@@ -44,4 +44,4 @@ A team where:
 ✅ engineering mindset is valued as much as speed
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=echechelev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=echechelev-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
