@@ -1,49 +1,44 @@
-Hi! 👋 I’m Evgeniy — QA Automation Engineer
-
-💼 **5 years in IT**:  
-Tech support → Manual QA → Test Automation  
-
-🧪 **3 years as a QA**,  
-each one deepening my view of quality  
-
-⚙️ Now building automation from the ground up:  
-— designing a Python (Selene) framework  
-— implementing Allure with business-readable steps  
-— thinking like an SDET: infrastructure, scalability, reliability  
-
-> “Quality starts with understanding the product,  
-> not with writing code”
-
-As the sole QA on the product, I blend:  
-🔍 exploratory testing  
-🧩 systems thinking  
-💻 engineering discipline
-
-Looking for a team where quality isn’t a gate — it’s part of the flow.  
-Where automation isn’t “someday” — it’s the foundation of every release.
+👋 Hi! I’m Evgeniy — QA Automation Engineer
 
 ---
 
-### 🛠 Технологии
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-3A96DD?style=flat&logo=pytest&logoColor=white)
-![Selene](https://img.shields.io/badge/Selene-FF6F00?style=flat&logo=selenium&logoColor=white)
-![Allure](https://img.shields.io/badge/Allure-000000?style=flat&logo=allure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat&logo=gitlab&logoColor=white)
+### 🚀 My Journey in Tech  
+💼 **5 years ago** — Tech support: solving other people’s problems.  
+🧪 **3 years ago** — Moved to QA: started asking the right questions.  
+⚙️ **Today** — Building test automation from scratch: code that protects the product.
 
-<!-- QA & Collaboration -->
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
-
-<!-- Databases -->
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-
-<!-- Tools -->
-![Fiddler](https://img.shields.io/badge/Fiddler-00A99D?style=flat&logo=fiddler&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+> *“Quality starts with understanding the product,  
+> not with writing code.”*
 
 ---
 
+### 🔧 What I Do Now  
+As the sole QA on the product, I wear three hats:
+
+- **🔍 Explorer**  
+  Run functional & regression testing,  
+  find weaknesses before users do.
+
+- **🧩 Architect**  
+  Design a scalable framework in Python (Selene),  
+  using Page Object, encapsulation, and clean structure.
+
+- **📊 Communicator**  
+  Make Allure reports clear for PMs, devs, and analysts —  
+  through business-readable steps, logs, and context.
+
+---
+
+### 🌱 Where I’m Growing  
+Actively moving toward **SDET**:  
+→ learning CI/CD (Jenkins, GitLab CI)  
+→ thinking of test infrastructure as a system  
+→ aiming to make automation the **foundation of release confidence**
+
+---
+
+### 💡 Looking For  
+A team where:  
+✅ quality is built-in, not bolted-on  
+✅ automation is a priority, not a “someday”  
+✅ engineering mindset is valued as much as speed
