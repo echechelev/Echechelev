@@ -43,5 +43,5 @@ A team where:
 ✅ automation is a priority, not a “someday”  
 ✅ engineering mindset is valued as much as speed
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=echechelev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=echechelev&theme=radical&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=echechelev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
