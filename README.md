@@ -43,5 +43,14 @@ A team where:
 ✅ automation is a priority, not a “someday”  
 ✅ engineering mindset is valued as much as speed
 
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-2E8B57?style=for-the-badge&logo=pytest&logoColor=white)
+![Selene](https://img.shields.io/badge/Selene-FF6B6B?style=for-the-badge&logo=selenium&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-EF5B0C?style=for-the-badge&logo=allure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=echechelev-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
