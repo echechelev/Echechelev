@@ -1,17 +1,26 @@
 Hi! 👋 I’m Evgeniy — QA Automation Engineer
 
-💼 5 years in IT: started in tech support → moved to QA  
-🧪 3 years as Manual QA → now building test automation from scratch  
-⚙️ Actively growing into SDET: architecture, infrastructure, quality as a mindset
+💼 **5 years in IT**:  
+Tech support → Manual QA → Test Automation  
 
-As the sole QA on the product, I:
-- Design e2e automation in Python (Selene)  
-- Make test reports team-friendly with Allure + business-level steps  
-- Combine manual testing, systems thinking, and code
+🧪 **3 years as a QA**,  
+each one deepening my view of quality  
 
-> “Quality starts with understanding the product — not with writing code.”
+⚙️ Now building automation from the ground up:  
+— designing a Python (Selene) framework  
+— implementing Allure with business-readable steps  
+— thinking like an SDET: infrastructure, scalability, reliability  
 
-Looking for a team where automation is part of the culture, not an afterthought.
+> “Quality starts with understanding the product,  
+> not with writing code”
+
+As the sole QA on the product, I blend:  
+🔍 exploratory testing  
+🧩 systems thinking  
+💻 engineering discipline
+
+Looking for a team where quality isn’t a gate — it’s part of the flow.  
+Where automation isn’t “someday” — it’s the foundation of every release.
 
 ---
 
