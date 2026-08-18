@@ -1,39 +1,51 @@
-👋 Hi! I’m Evgeniy — QA Automation Engineer
+👋 Привет! Я Евгений — QA Automation Engineer
 
 ---
 
-### 🚀 My Journey in Tech  
-💼 **5 years ago** — Tech support: solving other people’s problems.  
-🧪 **3 years ago** — Moved to QA: started asking the right questions.  
-⚙️ **Today** — Building test automation from scratch: code that protects the product.
+### 🚀 Мой путь в IT
+💼 6 лет назад — Техподдержка: решал чужие проблемы. 
+🧪 4 года назад — Перешёл в QA: начал задавать правильные вопросы.
+⚙️ Сегодня — Строю автоматизацию с нуля: код, который защищает продукт.
 
-> *“Quality starts with understanding the product,  
-> not with writing code.”*
+> «Качество начинается с понимания продукта,
+> а не с написания кода.» 
 
 ---
 
-### 🔧 What I Do Now  
+### 🔧 Что я делаю сейчас
 As the sole QA on the product, I wear three hats:
 
-- **🔍 Explorer**  
-  Run functional & regression testing,  
-  find weaknesses before users do.
+- **🔍 Исследователь**  
+  Провожу функциональное и регрессионное тестирование,
+  нахожу слабые места до того, как их найдут пользователи.
 
-- **🧩 Architect**  
-  Design a scalable framework in Python (Selene),  
-  using Page Object, encapsulation, and clean structure.
+- **🧩 Архитектор**  
+  Спроектировал и развиваю фреймворк на Python + Selene + pytest:
+  
+→ 158 автотестов в регрессе
+→ Page Object + наследование + параметризация
+→ Разделение локаторов, страниц и тестов
+→ Стабильность 98% при параллельном запуске в 16 потоков
 
-- **📊 Communicator**  
-  Make Allure reports clear for PMs, devs, and analysts —  
-  through business-readable steps, logs, and context.
+- **📊 Коммуникатор**  
+  Активно двигаюсь в сторону SDET:
+  
+→ Осваиваю CI/CD (Jenkins, GitLab CI, GitHub Actions)
+→ Рассматриваю тестовую инфраструктуру как систему
+→ Развиваю навык код-ревью и менторства
+→ Разрабатываю пет-проект для демонстрации архитектуры фреймворка
+
+Цель: сделать автоматизацию фундаментом уверенности в релизе.
+
 
 ---
 
-### 🌱 Where I’m Growing  
-Actively moving toward **SDET**:  
-→ learning CI/CD (Jenkins, GitLab CI)  
-→ thinking of test infrastructure as a system  
-→ aiming to make automation the **foundation of release confidence**
+### 💡 Что я ищу 
+Команду, в которой:
+
+✅ качество встроено в процесс, а не «прикручено» в конце
+✅ автоматизация — приоритет, а не «когда-нибудь потом»
+✅ инженерное мышление ценится наравне со скоростью
 
 ---
 
