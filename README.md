@@ -11,7 +11,7 @@
 ### 🛰️ Флагманский проект: Cassandra
 Личный архитектурный фреймворк. Solo project, где я играю все роли — от аналитика и архитектора до разработчика и QA. 
 
-[https://github.com/echechelev/cassandra]
+https://github.com/echechelev/cassandra
 
 ### 🔧 Что я делаю сейчас
 ** Единственный QA на продукте — совмещаю три роли:
