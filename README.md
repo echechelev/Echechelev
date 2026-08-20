@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Evgeny — QA Automation Engineer & Framework Architect
 
+ [Читать на русском](README.ru.md)
+
 🚀 **My Journey in IT**
 - 💼 **6 years ago:** Tech Support — solving other people's problems.
 - 🧪 **4 years ago:** Transitioned to QA — started asking the right questions.
