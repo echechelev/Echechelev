@@ -12,7 +12,10 @@
 
 ### 🛰️ Flagship Project: [Cassandra Framework](https://github.com/echechelev/cassandra-framework)
 A personal architectural framework. A solo project where I wear all the hats: Analyst, Architect, Developer, and QA. It serves as a live demonstration of my approach to building scalable, enterprise-grade test automation.
+
 Born from real-world challenges, I distilled best practices into CAS (Custom Automation Strategy) — a systematic philosophy that turns chaotic scripting into reliable engineering.
+
+**Important:** This is a training project built **without a backend** (frontend-only). All pages are static HTML/CSS/JS, demonstrating UI patterns and interaction. Authentication and data validation are emulated on the client side to demonstrate the test architecture. In a real project, these functions would be handled by the server-side code.
 
 [📖 Explore CAS Philosophy](https://github.com/Echechelev/cassandra-framework/blob/main/CAS_PHILOSOPHY.md)
 
