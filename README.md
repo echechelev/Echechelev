@@ -1,54 +1,51 @@
-👋 Привет! Я Евгений — QA Automation Engineer
+# 👋 Hi, I'm Evgeny — QA Automation Engineer & Framework Architect
+
+🚀 **My Journey in IT**
+- 💼 **6 years ago:** Tech Support — solving other people's problems.
+- 🧪 **4 years ago:** Transitioned to QA — started asking the right questions.
+- ⚙️ **Today:** Building automation from scratch — writing code that protects the product.
+- 🌌 **Right now:** Creating **Cassandra** (by Evknopia). An architectural framework for assessing planetary habitability. A showcase of my engineering mindset.
 
 ---
 
-### 🚀 Мой путь в IT
-- 💼 **6 лет назад** — Техподдержка: решал чужие проблемы.
-- 🧪 **4 года назад** — Перешёл в QA: начал задавать правильные вопросы.
-- ⚙️ **Сегодня** — Строю автоматизацию с нуля: код, который защищает продукт.
-- 🌌 **Прямо сейчас** — Создаю **Cassandra** (by Evknopia). Архитектурный фреймворк для оценки пригодности планет. Витрина моего инженерного мышления.
-
-### 🛰️ Флагманский проект: Cassandra
-Личный архитектурный фреймворк. Solo project, где я играю все роли — от аналитика и архитектора до разработчика и QA. 
-
-https://github.com/echechelev/cassandra
-
-### 🔧 Что я делаю сейчас
-** Единственный QA на продукте — совмещаю три роли:
-
-- **🔍 Исследователь**  
-  - Провожу функциональное и регрессионное тестирование,
-  - нахожу слабые места до того, как их найдут пользователи.
-
-- **🧩 Архитектор**  
- ** Спроектировал и развиваю фреймворк на Python + Selene + pytest:
-  
-- → 158 автотестов в регрессе
-- → Page Object + наследование + параметризация
-- → Разделение локаторов, страниц и тестов
-- → Стабильность 98% при параллельном запуске в 16 потоков
-
-- **📊 Коммуникатор**  
-  ** Активно двигаюсь в сторону SDET:
-  
-- → Осваиваю CI/CD (Jenkins, GitLab CI, GitHub Actions)
-- → Рассматриваю тестовую инфраструктуру как систему
-- → Развиваю навык код-ревью и менторства
-- → Разрабатываю пет-проект для демонстрации архитектуры фреймворка
-
-** Цель: сделать автоматизацию фундаментом уверенности в релизе.
-
+### 🛰️ Flagship Project: [Cassandra Framework](https://github.com/echechelev/cassandra-framework)
+A personal architectural framework. A solo project where I wear all the hats: Analyst, Architect, Developer, and QA. It serves as a live demonstration of my approach to building scalable, enterprise-grade test automation.
 
 ---
 
-### 💡 Что я ищу 
-Команду, в которой:
+### 🔧 What I'm currently doing
 
-- ✅ качество встроено в процесс, а не «прикручено» в конце
-- ✅ автоматизация — приоритет, а не «когда-нибудь потом»
-- ✅ инженерное мышление ценится наравне со скоростью
+#### 💼 At my day job
+*I am the sole QA on the product, combining three key roles:*
+
+🔍 **Researcher**  
+Conducting functional and regression testing, identifying weak spots before the users ever see them.
+
+🧩 **Architect & Automation Engineer**  
+- Built the manual testing process from scratch: **1000+ test cases**.  
+- Actively translating manual coverage into automation: **160+ automated tests** to date.  
+
+📊 **Communicator & SDET in the making**  
+- Actively evolving towards an SDET role.  
+- Mastering CI/CD pipelines (Jenkins, GitLab CI, GitHub Actions).  
+- Treating test infrastructure as a holistic, scalable system.  
+- Developing code review and mentoring skills.  
+
+🎯 **My Goal:** Make automation the unshakeable foundation of release confidence.
+
+#### 🌌 In my free time: Cassandra
+Designing and developing the **Cassandra Framework** from the ground up. Implementing modern QA practices, robust architecture, and clean code principles to showcase how a professional test automation ecosystem should be built.
 
 ---
+
+### 💡 What I'm looking for
+A team where:
+- ✅ Quality is built into the process, not "bolted on" at the end.
+- ✅ Automation is a strategic priority, not a "maybe later" afterthought.
+- ✅ Engineering mindset and architectural thinking are valued just as much as delivery speed.
+
+---
+*Built with 💻, ☕, and a passion for quality.*
 
 
 ## 🛠 Tech Stack
