@@ -14,7 +14,7 @@
 A personal architectural framework. A solo project where I wear all the hats: Analyst, Architect, Developer, and QA. It serves as a live demonstration of my approach to building scalable, enterprise-grade test automation.
 Born from real-world challenges, I distilled best practices into CAS (Custom Automation Strategy) — a systematic philosophy that turns chaotic scripting into reliable engineering.
 
-📖 Explore CAS Philosophy
+[📖 Explore CAS Philosophy](https://github.com/Echechelev/cassandra-framework/blob/main/CAS_PHILOSOPHY.md)
 
 ---
 
