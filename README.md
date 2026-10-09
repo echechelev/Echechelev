@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Evgeny — QA Automation Engineer & Framework Architect
 
- [Читать на русском](README.ru.md)
+ [🇷🇺 Читать на русском](README.ru.md)
 
 🚀 **My Journey in IT**
-- 💼 **6 years ago:** Tech Support — solving other people's problems.
-- 🧪 **4 years ago:** Transitioned to QA — started asking the right questions.
-- ⚙️ **Today:** Building automation from scratch — writing code that protects the product.
-- 🌌 **Right now:** Creating **Cassandra** (by Evknopia). An architectural framework for assessing planetary habitability. A showcase of my engineering mindset.
+- 💼 **6 years ago:** Tech Support — solving complex user problems and building deep empathy for the end-user.
+- 🧪 **9 months ago:** Transitioned to QA & Automation — started asking the right questions and building test frameworks from scratch.
+- ⚙️ **Today:** Writing code that protects the product and ensures absolute release confidence.
+- 🌌 **Right now:** Creating **Cassandra** (by Evknopia). An architectural framework for assessing planetary habitability. A live showcase of my engineering mindset.
 
 ---
 
@@ -24,17 +24,17 @@ Born from real-world challenges, I distilled best practices into CAS (Custom Aut
 ### 🔧 What I'm currently doing
 
 #### 💼 At my day job
-*I am the sole QA on the product, combining three key roles:*
+*I am the key QA engineer on the product, combining three key roles:*
 
 🔍 **Researcher**  
 Conducting functional and regression testing, identifying weak spots before the users ever see them.
 
 🧩 **Architect & Automation Engineer**  
 - Built the manual testing process from scratch: **1000+ test cases**.  
-- Actively translating manual coverage into automation: **160+ automated tests** to date.  
+- Actively translating manual coverage into automation: **250+ automated tests** written and maintained to date.  
 
 📊 **Communicator & SDET in the making**  
-- Actively evolving towards an SDET role.  
+- Actively evolving towards an SDET (Software Development Engineer in Test) role.  
 - Mastering CI/CD pipelines (Jenkins, GitLab CI, GitHub Actions).  
 - Treating test infrastructure as a holistic, scalable system.  
 - Developing code review and mentoring skills.  
@@ -56,6 +56,7 @@ A team where:
 *Built with 💻, ☕, and a passion for quality.*
 
 ---
+
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-2E8B57?style=for-the-badge&logo=pytest&logoColor=white)
@@ -65,7 +66,6 @@ A team where:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
