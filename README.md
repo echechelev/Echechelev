@@ -4,8 +4,8 @@
 
 🚀 **My Journey in IT**
 - 💼 **6 years ago:** Tech Support — solving complex user problems and building deep empathy for the end-user.
-- 🧪 **9 months ago:** Transitioned to QA & Automation — started asking the right questions and building test frameworks from scratch.
-- ⚙️ **Today:** Writing code that protects the product and ensures absolute release confidence.
+- 🧪 **4 years ago:** Transitioned to Manual QA — mastering the art of asking the right questions and building a solid foundation of 1000+ test cases.
+- ⚙️ **9 months ago:** Dove into Automation — building frameworks from scratch and writing code that protects the product (250+ automated tests and counting).
 - 🌌 **Right now:** Creating **Cassandra** (by Evknopia). An architectural framework for assessing planetary habitability. A live showcase of my engineering mindset.
 
 ---
