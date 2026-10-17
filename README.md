@@ -24,7 +24,7 @@
 
 Архитектура построена по принципам чистого кода и масштабируемости. Я дистиллировал лучшие практики в **CAS (Custom Automation Strategy)** — системную философию, которая превращает хаотичное написание скриптов в надежную инженерию.
 
-[![📖 Изучить философию CAS](https://img.shields.io/badge/📖_Изучить_философию_CAS-4da6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/echechelev/cassandra-framework)
+[![📖 Изучить философию CAS](https://img.shields.io/badge/📖_Изучить_философию_CAS-4da6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/echechelev/cassandra-framework](https://github.com/echechelev/cassandra-framework/blob/main/CAS_PHILOSOPHY.md))
 
 ---
 
