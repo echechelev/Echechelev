@@ -1,74 +1,52 @@
-# 👋 Hi, I'm Evgeny — QA Automation Engineer & Framework Architect
+👋 Привет, я Евгений — QA Automation Engineer & Архитектор фреймворков
+🇬🇧 Read in English
 
- [🇷🇺 Читать на русском](README.ru.md)
+🚀 Мой путь в IT
 
-🚀 **My Journey in IT**
-- 💼 **6 years ago:** Tech Support — solving complex user problems and building deep empathy for the end-user.
-- 🧪 **4 years ago:** Transitioned to Manual QA — mastering the art of asking the right questions and building a solid foundation of 1000+ test cases.
-- ⚙️ **9 months ago:** Dove into Automation — building frameworks from scratch and writing code that protects the product (250+ automated tests and counting).
-- 🌌 **Right now:** Creating **Cassandra** (by Evknopia). An architectural framework for assessing planetary habitability. A live showcase of my engineering mindset.
+💼 6 лет назад: Техническая поддержка — решение сложных пользовательских проблем и формирование глубокого понимания конечного пользователя.
+🧪 4 года назад: Переход в ручное тестирование — освоение искусства задавать правильные вопросы и создание прочного фундамента из 1000+ тест-кейсов.
+⚙️ 9 месяцев назад: Погружение в автоматизацию — создание фреймворков с нуля и написание кода, который защищает продукт (250+ автотестов и продолжаю писать).
+ Сейчас: Создаю Cassandra (by Evknopia). Архитектурный фреймворк для оценки обитаемости планет. Живая демонстрация моего инженерного мышления.
 
----
+🛰️ Флагманский проект: Cassandra Framework
+Персональный архитектурный фреймворк. Соло-проект, где я ношу все шляпы: Аналитик, Архитектор, Разработчик и QA. Это живая демонстрация моего подхода к созданию масштабируемой автоматизации корпоративного уровня.
 
-### 🛰️ Flagship Project: [Cassandra Framework](https://github.com/echechelev/cassandra-framework)
-A personal architectural framework. A solo project where I wear all the hats: Analyst, Architect, Developer, and QA. It serves as a live demonstration of my approach to building scalable, enterprise-grade test automation.
+Рожденный из реальных рабочих задач, я distilled лучшие практики в CAS (Custom Automation Strategy) — системную философию, которая превращает хаотичное написание скриптов в надежную инженерию.
 
-Born from real-world challenges, I distilled best practices into CAS (Custom Automation Strategy) — a systematic philosophy that turns chaotic scripting into reliable engineering.
+Важно: Это учебный проект, созданный без бэкенда (только фронтенд). Все страницы — статичный HTML/CSS/JS, демонстрирующий UI-паттерны и взаимодействие. Аутентификация и валидация данных эмулируются на стороне клиента для демонстрации архитектуры тестирования. В реальном проекте эти функции выполнялись бы серверным кодом.
 
-**Important:** This is a training project built **without a backend** (frontend-only). All pages are static HTML/CSS/JS, demonstrating UI patterns and interaction. Authentication and data validation are emulated on the client side to demonstrate the test architecture. In a real project, these functions would be handled by the server-side code.
+📖 Изучить философию CAS
 
-[📖 Explore CAS Philosophy](https://github.com/Echechelev/cassandra-framework/blob/main/CAS_PHILOSOPHY.md)
+🔧 Чем я занимаюсь сейчас
+ На основной работе
+Я ключевой QA-инженер продукта, совмещающий три ключевые роли:
 
----
+🔍 Исследователь
+Проведение функционального и регрессионного тестирования, выявление слабых мест до того, как их увидят пользователи.
 
-### 🔧 What I'm currently doing
+ Архитектор & Инженер по автоматизации
+- Построил процесс ручного тестирования с нуля: 1000+ тест-кейсов.
+- Активно перевожу ручное покрытие в автоматизацию: 250+ автотестов написано и поддерживается на данный момент.
 
-#### 💼 At my day job
-*I am the key QA engineer on the product, combining three key roles:*
+📊 Коммуникатор & SDET в становлении
+- Активно развиваюсь в сторону роли SDET (Software Development Engineer in Test).
+- Осваиваю CI/CD пайплайны (Jenkins, GitLab CI, GitHub Actions).
+- Рассматриваю тестовую инфраструктуру как целостную, масштабируемую систему.
+- Развиваю навыки code review и менторства.
 
-🔍 **Researcher**  
-Conducting functional and regression testing, identifying weak spots before the users ever see them.
+ Моя цель: Сделать автоматизацию незыблемым фундаментом уверенности в релизах.
 
-🧩 **Architect & Automation Engineer**  
-- Built the manual testing process from scratch: **1000+ test cases**.  
-- Actively translating manual coverage into automation: **250+ automated tests** written and maintained to date.  
+🌌 В свободное время: Cassandra
+Проектирование и разработка Cassandra Framework с нуля. Внедрение современных QA-практик, надежной архитектуры и принципов чистого кода, чтобы показать, как должна строиться профессиональная экосистема автоматизации тестирования.
 
-📊 **Communicator & SDET in the making**  
-- Actively evolving towards an SDET (Software Development Engineer in Test) role.  
-- Mastering CI/CD pipelines (Jenkins, GitLab CI, GitHub Actions).  
-- Treating test infrastructure as a holistic, scalable system.  
-- Developing code review and mentoring skills.  
+ Что я ищу
+Команду, где:
 
-🎯 **My Goal:** Make automation the unshakeable foundation of release confidence.
+✅ Качество встроено в процесс, а не "прикручено" в конце.
+✅ Автоматизация — стратегический приоритет, а не "может быть потом" послеthought.
+✅ Инженерное мышление и архитектурный подход ценятся так же, как скорость доставки.
 
-#### 🌌 In my free time: Cassandra
-Designing and developing the **Cassandra Framework** from the ground up. Implementing modern QA practices, robust architecture, and clean code principles to showcase how a professional test automation ecosystem should be built.
+Создано с 💻,  и страстью к качеству.
 
----
-
-### 💡 What I'm looking for
-A team where:
-- ✅ Quality is built into the process, not "bolted on" at the end.
-- ✅ Automation is a strategic priority, not a "maybe later" afterthought.
-- ✅ Engineering mindset and architectural thinking are valued just as much as delivery speed.
-
----
-*Built with 💻, ☕, and a passion for quality.*
-
----
-
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-2E8B57?style=for-the-badge&logo=pytest&logoColor=white)
-![Selene](https://img.shields.io/badge/Selene-FF6B6B?style=for-the-badge&logo=selenium&logoColor=white)
-![Allure](https://img.shields.io/badge/Allure-EF5B0C?style=for-the-badge&logo=allure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![UI Testing](https://img.shields.io/badge/UI_Testing-4CAF50?style=for-the-badge&logo=cypress&logoColor=white)
+🛠 Технологический стек
+Python Pytest Selene Allure Git GitHub Jenkins Docker Postman SQL Swagger Jira Confluence UI Testing
