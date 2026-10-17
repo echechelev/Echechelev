@@ -1,5 +1,5 @@
 👋 Привет, я Евгений — QA Automation Engineer & Архитектор фреймворков
-🇬🇧 Read in English
+
 
 🚀 Мой путь в IT
 
